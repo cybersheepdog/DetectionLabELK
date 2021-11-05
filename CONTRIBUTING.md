@@ -18,7 +18,7 @@ The following types of changes should be maintained on a personal fork and shoul
 ### Pull requests
 
 All contributions are submitted via pull requests open against the
-[master](https://github.com/cybersheepdog/DetectionLab/tree/master) branch. Pull requests are all reviewed and must pass continuous integration tests before being merged.
+[master](https://github.com/cybersheepdog/DetectionLabELK) branch. Pull requests are all reviewed and must pass continuous integration tests before being merged.
 
 If you're unfamiliar with GitHub or how pull requests work, GitHub has a very easy to follow guide
 that teaches you how to fork the project and submit your first PR. You can follow it
@@ -33,7 +33,7 @@ Once your pull request is approved and the build passes, the PR is ready to merg
 
 ### Branches and tags
 
-The DetectionLab repo contains only the [master](https://github.com/cybersheepdog/DetectionLab/tree/master) branch. I don't keep feature or release branches.
+The DetectionLab repo contains only the [master](https://github.com/cybersheepdog/DetectionLabELK) branch. I don't keep feature or release branches.
 
 ## License
 
