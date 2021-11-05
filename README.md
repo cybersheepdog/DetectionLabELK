@@ -12,10 +12,10 @@ repo is no longer maintained as of may 2020.
     - Recent update to [DetectionLab](https://github.com/clong/DetectionLab) changed the default IP's to 192.168.58.X.  Default for this project will be 192.168.42.X.
 - Default Box Names will be a different to allow for installation on same host using the same virtualizaiton software (Virtualbox, VMWare,etc.).
     - They will be:
-        - loggerelk
-        - dcelk
-        - wefelk
-        - win10elk
+        - logger_elk
+        - dc_elk
+        - wef_elk
+        - win10_elk
 - Ability to change default hostnames.
 - Ability to change default domain.
 - Ability to change the default IP addresses.
